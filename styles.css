@@ -1,0 +1,92 @@
+/* .contain {
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+}
+
+section {
+  scroll-snap-align: start;
+} */
+
+/* body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+section {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  height: 100vh;
+  width: 100vw;
+  scroll-snap-align: start;
+}
+
+.left-section {
+  background-color: #6f2dbd;
+  flex: 1;
+  max-width: 50%;
+}
+
+.downloads-info h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.downloads-info p {
+  font-size: 1.5em;
+}
+
+.award-info {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.award-badge img {
+  width: 200px;
+  margin-right: 10px;
+}
+
+.company-info h2 {
+  font-size: 2em;
+  margin: 0;
+}
+
+.case-study-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: #fff;
+  text-decoration: none;
+  border: 1px solid #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.right-section {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+}
+
+.right-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+#page2 {
+  color: black;
+} */
