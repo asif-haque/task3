@@ -11,6 +11,10 @@
   transform: translate(-50%, 0);
 }
 
+svg {
+  fill: none;
+}
+
 /* .contain {
   scroll-snap-type: y mandatory;
   overflow-y: scroll;
